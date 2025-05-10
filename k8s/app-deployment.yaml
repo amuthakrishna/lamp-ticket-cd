@@ -45,7 +45,7 @@ spec:
     spec:
       containers:
       - name: laravelapps
-        image: krishnamoorthy1/laravel-k8s:latest
+        image: krishnamoorthy1/lamp-new:238
         ports:
         - containerPort: 80
         env:
