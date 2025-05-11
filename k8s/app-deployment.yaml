@@ -45,7 +45,7 @@ spec:
     spec:
       containers:
       - name: laravelapps
-        image: krishnamoorthy1/lamp-new:246
+        image: krishnamoorthy1/lamp-new:247
         ports:
         - containerPort: 80
         env:
